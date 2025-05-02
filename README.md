@@ -32,7 +32,7 @@ warehouse_inventory_project/
 
 1. Клонуйте репозиторій:
    ```
-   git clone https://github.com/yourusername/warehouse_inventory_project.git
+   git clone https:https://github.com/vladyslavandriiv/PROFECT.git
    cd warehouse_inventory_project
 Створіть віртуальне середовище та активуйте його (опціонально):
 
@@ -54,4 +54,4 @@ Python 3.8 або вище
 Стандартні бібліотеки: datetime, re
 
 Проєкт створено для практичної роботи з теми "Автоматизація складського обліку".
-Автор: [Ваше ім’я або група]
+Автор: [Андріїв Владислав КІПЗС-22-1]
